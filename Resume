@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Resume of Abdelrahman Elhanafy">
+    <title>Abdelrahman Elhanafy - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.5em;
+            border-bottom: 2px solid #ecf0f1;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdelrahman Elhanafy</h1>
+        <p>Email: <a href="mailto:abdulrahman.sobhy.elhanafy@gmail.com">abdulrahman.sobhy.elhanafy@gmail.com</a></p>
+        <p>LinkedIn: <a href="http://www.linkedin.com/in/abdelrahman-elhanafy-a2b40b309">Abdelrahman Elhanafy</a></p>
+    </header>
+
+    <section class="section">
+        <div class="section-title">Education</div>
+        <p><strong>Ain Shams University</strong>, Cairo, Egypt<br>Bachelor of Business in Accounting and Finance<br>September 2022 - Expected, June 2026<br>CGPA: 3.92/4.00</p>
+    </section>
+
+    <section class="section">
+        <div class="section-title">Experience</div>
+        <h3>Faisal Islamic Bank - Card Operations Centre Intern</h3>
+        <p>August 2024</p>
+        <ul>
+            <li>Investigated ATM transaction issues, analyzed journal entries, and produced over 200 reports.</li>
+        </ul>
+        <h3>Horizon Securities Brokerage - Investment Accountant Intern</h3>
+        <p>August 2023 – September 2023</p>
+        <ul>
+            <li>Supervised security investments, ensuring regulatory compliance and accuracy of financial records.</li>
+        </ul>
+    </section>
+
+    <!-- Add other sections similarly -->
+</body>
+</html>
